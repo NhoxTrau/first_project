@@ -5,6 +5,8 @@ langchain
 python-dotenv
 faiss-cpu
 huggingface_hub
+langchain_community
+
 
 
 
